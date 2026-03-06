@@ -5097,4 +5097,11 @@ class FeatherIcons {
   <polyline points="17 6 23 6 23 12" />
 </svg>
 ''');
+
+  /// Qwertyuiop icon
+  static const qwertyuiop = FeatherIcons._('qwertyuiop', '''<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="32" height="32" rx="16" fill="#389E0D"/>
+<path d="M22.6693 11L13.5026 20.1667L9.33594 16" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+''');
 }
